@@ -1,6 +1,6 @@
 # Machine Learning & Data Science Portfolio
 
-Welcome to my Machine Learning and Data Science repository! This collection of Jupyter notebooks showcases a comprehensive journey from fundamental data preprocessing and Exploratory Data Analysis (EDA) to advanced machine learning algorithms, deep learning models, natural language processing (NLP), and optimization techniques built from scratch.
+Welcome to my Machine Learning and Data Science repository! This collection of Jupyter notebooks showcases a comprehensive journey from fundamental data preprocessing and Exploratory Data Analysis (EDA) to advanced machine learning algorithms and optimization techniques built from scratch.
 
 ---
 
